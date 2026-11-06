@@ -17,7 +17,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 12px 24px;
-  background: #c26666;
+  background-color: #c8553d;
   border-bottom: 1px solid #eadfce;
 }
 
@@ -59,7 +59,7 @@ body {
   display: inline-block;
   padding: 10px 28px;
   border-radius: 999px;
-  background: #a97377;
+  background-color: #c8553d;
   color: #fff;
   text-decoration: none;
 }
@@ -99,7 +99,7 @@ body {
 /* ===== 商品 ===== */
 .products {
   padding: 40px 16px;
-  background: #d95555;
+  background-color: #c8553d;
 }
 
 .products__list {
@@ -136,13 +136,13 @@ body {
   display: inline-block;
   padding: 8px 24px;
   border-radius: 6px;
-  background: #d9534f;
+  background: #c8553d;
   color: #fff;
   text-decoration: none;
 }
 
 .product-card__button:hover {
-  background: #a63f2c;
+  background-color: #c8553d;
 }
 
 /* ===== アクセス ===== */
@@ -209,7 +209,7 @@ body {
 /* ===== フッター ===== */
 .site-footer {
   padding: 32px 16px;
-  background: #3a2a1f;
+  background-color: #c8553d;
   color: #eadfce;
   text-align: center;
 }
