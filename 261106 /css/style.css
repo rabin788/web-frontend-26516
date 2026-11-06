@@ -7,7 +7,7 @@ body {
   margin: 0;
   font-family: sans-serif;
   color: #3a2a1f;
-  background: #fffaf3;
+  background: #c96262;
   line-height: 1.7;
 }
 
@@ -17,7 +17,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 12px 24px;
-  background: #fff;
+  background: #c26666;
   border-bottom: 1px solid #eadfce;
 }
 
@@ -59,7 +59,7 @@ body {
   display: inline-block;
   padding: 10px 28px;
   border-radius: 999px;
-  background: #3a2a1f;
+  background: #a97377;
   color: #fff;
   text-decoration: none;
 }
@@ -99,7 +99,7 @@ body {
 /* ===== 商品 ===== */
 .products {
   padding: 40px 16px;
-  background: #841111;
+  background: #d95555;
 }
 
 .products__list {
